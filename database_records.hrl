@@ -1,0 +1,2 @@
+-record(user,{user_id,name,location,balance,loan}).
+-record(cause,{cause_id,location}).
